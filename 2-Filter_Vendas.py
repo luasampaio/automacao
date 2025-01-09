@@ -1,3 +1,5 @@
+# Funcao Validar Meta
+
 vendas = range(1000,3000)
 
 print(list(vendas))

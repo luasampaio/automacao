@@ -1,3 +1,5 @@
+## Abrindo paginas no edge 
+
 import webbrowser as wb
 
 
